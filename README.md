@@ -1,3 +1,13 @@
+Các chức năng :
+-Đăng nhập,tạo tài khoản,sửa mật khẩu User
+-Quản lý sách(thêm , sửa , xóa)
+-Tìm kiếm sách
+-Đăng nhập,đăng ký,sửa mật khẩu Admin
+-Quản lý và thiết kế csdl
+- Xử lý giỏ hàng,thanh toán,viewbook,feedback trang
+user
+- Xử lý người dùng , feedback,đơn hàng trang admin
+
 # QuanLySach
 Hướng dẫn sử dụng
 B1: Tải file code + file mysql
